@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HanoiPic</string>
+    <string name="ready_to_move_hanoi_tower">Ready to move Hanoi Tower?</string>
+    <string name="rules">rules</string>
+    <string name="start_game_with">Start game with</string>
+    <string name="disks">disks</string>
+    <string name="play">play</string>
+    <string name="game_rules">Tower of Hanoi consists of three pegs or towers with n disks placed one over the other.\n\nThe objective of the puzzle is to move the stack to another peg following these simple rules:\n\n->Only one disk can be moved at a time\n\n->No disk can be placed on top of the smaller disk.</string>
+
+    <string-array name="number_of_disks_array">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+
+</resources>
